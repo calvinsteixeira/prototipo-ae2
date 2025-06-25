@@ -1,4 +1,4 @@
-# Tela "Esqueci minha senha"
+# Tela "Esqueci minha senha (confirmar dados)"
 
 ## Descrição
 
